@@ -1,0 +1,94 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: Pramesh Bajracharya
+description: Pramesh's Website, All about technology, learning, code and some more stuffs.
+keywords: Pramesh,pramesh,bajracharya,Bajracharya,Pramesh Bajracharya,pramesh bajracharya,blog,Jekyll,github,gh-pages
+baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://prameshbajra/prameshbajra.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
+# url: http://127.0.0.1:4000
+img_path: /homepage/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+
+# author -- index page "about me" section
+author:  # change following line to your infomation.
+  name: Pramesh Bajracharya # Be used at blog posts' author.
+  first_name: Pramesh  # Be used at index page about me section.
+  last_name: Bajracharya  # Be used at index page about me section.
+  avatar: /static/assets/img/landing/pramesh.jpg  # upload your avatar at directory and edit it.
+  github_username: prameshbajra  # Leave blank if you don't have now
+  linkedin_id: prameshbajra # Leave blank if you don't have now
+  facebook_username: # Leave blank if you don't have now
+  twitter_username: prameshbajra  # Leave blank if you don't have now
+  instagram_username:  # instagram username here 
+  email: pe.messh@gmail.com  # Leave blank if you don't have now
+  cv: https://drive.google.com/file/d/1RvQZ0w_ZpgG9pHoCoZ43cQo4T9O9Oi63/view?usp=sharing
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  skill_icon1:
+    - name: fa-book
+    - name: fa-github
+  skill_icon2:
+    - name: fa-code
+    - name: fa-laptop
+  desc: Hi! I'm <b>Pramesh Bajracharya</b>.<br> I am from the lap of himalayas, a beautiful country called "<b>Nepal</b>" <br>  I am a <b>Computer Engineer</b> having passion for everything related technology.<br> I love smartphones, laptops and basically all gadgets. You can take me as a “MixBag” having <br> knowledge in Full stack Development, Cloud Architectures, Deep learning, Automation, deployments and many others.  # Describe yourself.
+
+# comment
+disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: Pramesh
+
+# analytics
+## google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  # id:
+
+## google optimize
+go:
+  # id:
+
+## growingIO
+gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id:
+
+## donation
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
+
+## carousels
+index_carousel: off  # index page carousel switch
+blog_carousel: off  # blog page carousel switch
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Install gems ...  
+plugins:
+ - jekyll-seo-tag
+
+# SEO manages ...
+twitter:
+  username: prameshbajra
+  
+social:
+  name: Pramesh Bajracharya
+  links:
+    - https://twitter.com/prameshbajra
+    - https://www.facebook.com/prameshbajra
+    - https://github.com/prameshbajra
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
